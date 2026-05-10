@@ -1,0 +1,7 @@
+astropy==6.x.x
+astroquery==0.4.x
+matplotlib==3.x.x
+numpy==1.x.x
+pandas==2.x.x
+requests==2.x.x
+scikit-learn==1.x.x
